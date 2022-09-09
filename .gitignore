@@ -3,6 +3,7 @@
 weights
 experiments
 pretrained_models
+datasets
 *.so
 *.ipynb_checkpoints*
 *.yml
